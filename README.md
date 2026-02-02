@@ -1,2 +1,2 @@
-# log-file-analyser
+# Log-file-analyser
 Python log file analyzer for cybersecurity learning
